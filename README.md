@@ -35,5 +35,9 @@ and get the data from the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<div align="center">
+  
+  ![image](https://user-images.githubusercontent.com/57343545/150127087-b59aa5b8-686c-49ef-bed6-8ba819b8d556.png)
+  ![image](https://user-images.githubusercontent.com/57343545/150127257-3eef5200-ca0a-46c8-b3d7-e369b73c0355.png)
+  ![image](https://user-images.githubusercontent.com/57343545/150127295-9ef589df-323f-41b3-ba6c-b3d635179dbc.png)
+</div>
