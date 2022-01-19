@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Watch Netflix",
+      "day": "Feb 8th at 10:25pm",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Start learning react/ts",
+      "day": "Feb 1 at 12am",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Meeting at school",
+      "day": "Jan 15th at 10:25pm",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
